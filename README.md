@@ -3,4 +3,5 @@ This is a note type application made with C# Win Forms. You can create, read and
 (Visual Studio 2022 is recommended)
 <img src="https://i.ibb.co/YLCfbTN/image.png"><br>
 <img src="https://i.ibb.co/3pVcf9t/image.png"><br>
-<img src="https://i.ibb.co/RbCZgj7/image.png">
+<img src="https://i.ibb.co/RbCZgj7/image.png"><br>
+<img src="https://i.ibb.co/zn25DQS/image.png"><br>
