@@ -42,7 +42,7 @@
             this.createNoteButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.createNoteButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.createNoteButton.Font = new System.Drawing.Font("Algerian", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.createNoteButton.Location = new System.Drawing.Point(79, 237);
+            this.createNoteButton.Location = new System.Drawing.Point(81, 237);
             this.createNoteButton.Name = "createNoteButton";
             this.createNoteButton.Size = new System.Drawing.Size(209, 42);
             this.createNoteButton.TabIndex = 0;
@@ -76,7 +76,7 @@
             this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Algerian", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(79, 368);
+            this.button2.Location = new System.Drawing.Point(81, 368);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(209, 42);
             this.button2.TabIndex = 2;
@@ -91,7 +91,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Algerian", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(100, 18);
+            this.label1.Location = new System.Drawing.Point(97, 18);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(102, 39);
             this.label1.TabIndex = 3;
@@ -102,7 +102,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Algerian", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(185, 18);
+            this.label2.Location = new System.Drawing.Point(182, 18);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(85, 39);
             this.label2.TabIndex = 4;
