@@ -6,3 +6,4 @@ This is a note type application made with C# Win Forms. You can create, read and
 <img src="https://i.ibb.co/RbCZgj7/image.png"><br>
 <img src="https://i.ibb.co/zn25DQS/image.png"><br>
 <img src="https://i.ibb.co/1q2hVf4/image.png"><br>
+<img src="https://i.ibb.co/yp0tbFP/image.png"><br>
